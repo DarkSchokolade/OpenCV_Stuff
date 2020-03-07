@@ -2,8 +2,8 @@
 
 ## Some ScreenShots
 
-![](DrawOnImage.png =250x250)
+![](DrawOnImage.png)
 
-![](AllThresholding.png =250x250)
+![](AllThresholding.png)
 
-<img src="DrawOnImage.png" alt="Image" width="250"/>
+<img src="DrawOnImage.png" width="250">
