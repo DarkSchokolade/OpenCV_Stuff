@@ -2,6 +2,6 @@
 
 ## Some ScreenShots
 
-![](AllThresholding.png)
+![](DrawOnImage.png =250x250)
 
-![](DrawOnImage.png)
+![](AllThresholding.png =250x250)
